@@ -1,10 +1,13 @@
-EPIC: Chicken Coop 2.0
---
+# EPIC: Chicken Coop 2.0
+
+---
+
 A RESTful app for helping farmers manage chicken coops easier. Each app manages 1 chicken coop.
 The owner is able to manage chickens and to access useful stats and projections.
+---
+**Stack: python, flask, sqlite**
 
-### Stack: python, flask, sqlite
-
+---
 ### The tasks for today:
 
 [DEV-01] Create a REST endpoint
