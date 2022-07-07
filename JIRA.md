@@ -2,8 +2,13 @@
 
 ---
 
-A RESTful app for helping farmers manage chicken coops easier. Each app manages 1 chicken coop.
+A RESTful app for helping farmers manage chicken coops easier.
 The owner is able to manage chickens and to access useful stats and projections.
+
+### Usecase:
+At the end of each day, the farm manager introduces manually informations 
+into the system
+
 ---
 **Stack: python, flask, sqlite**
 
@@ -21,3 +26,6 @@ The owner is able to manage chickens and to access useful stats and projections.
   - chicks count
   - how many died
 - TBD can we improve this?
+
+[DEV-03] Support real-time egg counting
+- We want to support real time inputs from devices counting eggs and monitoring chicken health
